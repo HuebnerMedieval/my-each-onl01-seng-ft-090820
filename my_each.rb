@@ -7,6 +7,6 @@ def my_each(array)
   end
 end
 
-def my_each(element) do |n|
+my_each(element) do |n|
   puts n
 end
